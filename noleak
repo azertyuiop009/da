@@ -1,9 +1,5 @@
 function gea()
-    setclipboard = nil
-    getgenv().toclipboard = nil
-    getgenv().clipboard = nil
-    getgenv().setclipboard = nil
-    getgenv().rconsoleprint = nil
+    setclipboard("https://discord.gg/ZguE3fg5ee")
     _G.desactive = false
 end
 gea()
