@@ -1,8 +1,7 @@
 function gea()
-    setclipboard("https://discord.gg/ZguE3fg5ee")
+    setclipboard("https://discord.com/invite/simulator")
     getgenv().toclipboard = nil
     getgenv().clipboard = nil
-    getgenv().setclipboard = nil
     getgenv().rconsoleprint = nil
     _G.desactive = false
 end
